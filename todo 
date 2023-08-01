@@ -1,0 +1,9 @@
+create mongodb schema for entity reports
+
+db/chema/reports.js
+
+description
+name
+steps для заполнения информации об ошибки
+status
+
