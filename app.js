@@ -23,7 +23,9 @@ const BugsSchema = new mongoose.Schema({
 const Bugs = new mongoose.model("Bugs", BugsSchema)
 
 const mage_1 = new Bugs({
-    name: "Takashi",
+    name: "505",
+    description: "HTTP Version Not Supported",
+    status: "505"
 
 
 });
